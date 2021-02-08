@@ -18,8 +18,12 @@ This is an open-source Python-based module focused on simulating the integration
 This module is easy to use, but initial conditions must be defined to perform simulations.
 
 1: External file are defined from here. The user should select: the file which contains a list with all elements in the grid as well as their parameters, the list that contains the Standard Load Profiles (SLPs), the OpenDSS script, and the folder where results will be saved.
+
 2: In this part, time-series characteristics are defined. In particular: the timeframe of simulation in days, the time step in minutes, and the number of repetitions that define how many times the simulation – by keeping the same distribution of CF – should be repeated.
+
 3: Define if results should be converted automatically by the module, manually by the user, or a mix of these options.
+
 4: This part defines the methods of distribution of charging fleets across the grid.
+
 5: Once defined all parameters, the simulation can start by pressing “Simulate”. It is also possible to simulate the grid without charging fleets in order to have a reference situation of the grid.
            
