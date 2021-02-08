@@ -14,8 +14,8 @@ Created on Tue Oct  6 13:12:19 2020
 # Import external library and define OpenDSS commands
 #***********************************************************
 import pandas as pd
-#from GUI import *
-from GUI_ import*
+from GUI import *
+#from GUI_ import*
 import os
 #***********************************************************
 # IMPORT GRID
