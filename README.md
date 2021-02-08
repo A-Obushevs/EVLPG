@@ -28,4 +28,7 @@ This module is easy to use, but initial conditions must be defined to perform si
 4: This part defines the methods of distribution of charging fleets across the grid.
 
 5: Once defined all parameters, the simulation can start by pressing “Simulate”. It is also possible to simulate the grid without charging fleets in order to have a reference situation of the grid.
-           
+
+# ToDo
+
+# ToDo
