@@ -36,3 +36,7 @@ The results show that the LV network will work within the limits if the proporti
 ![Reproduction](Doc/img/Reproduction.jpg)
 
 # ToDo
+* Dynamic algorithm for the selection of potential PCC
+* In-depth study regarding simplifications for extensive grids
+* Unbalanced power flow calculation
+* Investigate on parallel computation techniques
