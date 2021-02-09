@@ -28,7 +28,10 @@ This module is easy to use, but initial conditions must be defined to perform si
 
 5: Once defined all parameters, the simulation can start by pressing “Simulate”. It is also possible to simulate the grid without charging fleets in order to have a reference situation of the grid.
 
-# ToDo
+# Result reproduction in PowerFactory environment
+Existing LV distribution grids of the City
+Predefined scenarios – 8, 10, 12, 20 and 60%
+The results show that the LV network will work within the limits if the proportion of electric cars remains below 10%. However, as soon as a share of just under 12% occurs, the limitation is violated.
 
 ![Reproduction](Doc/img/Reproduction.jpg)
 
